@@ -13,8 +13,9 @@ MarkupSafe==2.1.5
 numpy==1.26.4
 packaging==24.0
 Pygments==2.18.0
-recommonmark==0.7.1
+
 requests==2.32.2
+recommonmark==0.7.1
 snowballstemmer==2.2.0
 Sphinx==7.3.7
 sphinx-markdown-tables==0.0.17
