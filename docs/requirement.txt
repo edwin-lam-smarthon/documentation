@@ -13,7 +13,6 @@ MarkupSafe==2.1.5
 numpy==1.26.4
 packaging==24.0
 Pygments==2.18.0
-
 requests==2.32.2
 recommonmark==0.7.1
 snowballstemmer==2.2.0
