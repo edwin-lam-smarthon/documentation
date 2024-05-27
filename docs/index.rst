@@ -9,6 +9,6 @@ Welcome to Smarthon Smart Home Project's documentation!
 .. toctree::
    :maxdepth: 2
    
-   The First Page
+   The_First_Page
    doc02
    
