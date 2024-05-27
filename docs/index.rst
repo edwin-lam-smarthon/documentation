@@ -12,6 +12,7 @@ Welcome to Smarthon Smart Home Project's documentation!
    The_First_Page
    doc02
 
-.. image:: images/get_started_sphinx.png
-   :width: 600
+.. image:: pic/heracross.png
+  :width: 400
+  :alt: Alternative text
    
