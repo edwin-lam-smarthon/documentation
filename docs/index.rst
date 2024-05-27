@@ -14,5 +14,5 @@ Welcome to Smarthon Smart Home Project's documentation!
 
 .. image:: pic/heracross.png
   :width: 400
-  :alt: Alternative text
+  :alt: Heracross
    
